@@ -20,6 +20,7 @@ chatting-application/
 - Ant Build System
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/474a3ba0-9cbb-4932-8728-5969223d57f2)
 
 ### Prerequisites
 
